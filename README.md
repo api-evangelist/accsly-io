@@ -64,23 +64,101 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Accsly is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+Accsly offers a marketplace for buying cheap accounts for services such as Telegram, Steam, Google/Gmail, TikTok, Discord, email, games, and AI tools. The site aggregates verified shop offers into a catalog, allowing users to compare prices and purchase directly from sellers.
 
-**Areas:** Company
+**Areas:** Marketplace · Accounts · Gaming · AI Tools · E-commerce
 
 ## Accsly on APIs.io
 
 Everything profiled for Accsly is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/accsly-io/](https://apis.io/providers/accsly-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (5)
+
+- [Accsly Agent API](https://apis.io/apis/accsly-io/accsly-agent-api/) — Read-only price data of accsly.io: VPS/VDS, shared hosting and dedicated plans.
+- [Accsly Accounts API](https://apis.io/apis/accsly-io/accsly-io-accounts-api/) — The Accounts API from Accsly — 1 operation(s) for accounts.
+- [Accsly Markdown pages API](https://apis.io/apis/accsly-io/accsly-io-markdown-pages-api/) — The Markdown pages API from Accsly — 10 operation(s) for markdown pages.
+- [Accsly MCP API](https://apis.io/apis/accsly-io/accsly-io-mcp-api/) — The MCP API from Accsly — 1 operation(s) for mcp.
+- [Accsly VPS API](https://apis.io/apis/accsly-io/accsly-io-vps-api/) — The VPS API from Accsly — 2 operation(s) for vps.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Accsly Io Agentic Access](https://apis.io/agentic-access/accsly-io/accsly-io-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Accsly Io Context](https://apis.io/jsonld/accsly-io/accsly-io-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Accsly API Rules](https://apis.io/rules/accsly-io/accsly-io-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Accsly Io Domain Security](https://apis.io/security/accsly-io/accsly-io-domain-security/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://accsly.io)
+- [Blog](https://accsly.io/ru/blog)
+- [Terms of service](https://accsly.io/ru/terms)
+- [Privacy policy](https://accsly.io/ru/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/accsly-io/](https://apis.io/providers/accsly-io/).
+**Kin Score 33.0** — thin · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 50.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 28.8** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/accsly-io/](https://apis.io/providers/accsly-io/).
 
 ## How this profile is made
 
