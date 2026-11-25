@@ -66,7 +66,7 @@
 
 Accsly offers a marketplace for buying cheap accounts for services such as Telegram, Steam, Google/Gmail, TikTok, Discord, email, games, and AI tools. The site aggregates verified shop offers into a catalog, allowing users to compare prices and purchase directly from sellers.
 
-**Areas:** Marketplace · Accounts · Gaming · AI Tools · E-commerce
+**Areas:** Marketplace · Account · Gaming · AI Tools · E-Commerce
 
 ## Accsly on APIs.io
 
@@ -88,7 +88,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Accsly Io Agentic Access](https://apis.io/agentic-access/accsly-io/accsly-io-agentic-access/)
+- [Accsly Agentic Access](https://apis.io/agentic-access/accsly-io/accsly-io-agentic-access/)
 
 #### JSON-LD (1)
 
@@ -106,7 +106,7 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Accsly Io Domain Security](https://apis.io/security/accsly-io/accsly-io-domain-security/)
+- [Accsly Domain Security](https://apis.io/security/accsly-io/accsly-io-domain-security/)
 
 ## Where to find this API
 
@@ -119,25 +119,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 33.0** — thin · rubric 0.25.0 · scored 2026-10-29
+**Kin Score 27.6** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
-| Contract quality | 50.3 |
-| Contract governance | 79.1 |
+| Discoverability | 66.7 |
+| Contract quality | 53.4 |
+| Contract governance | 22.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 2.4 |
-| Access clarity | 21.1 |
+| Access clarity | 27.7 |
 
-**Agent readiness 28.8** — agent-ready
+**Agent readiness 29.0** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | verified |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | verified |
@@ -155,8 +155,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | — |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/accsly-io/](https://apis.io/providers/accsly-io/).
 
